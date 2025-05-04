@@ -2,6 +2,10 @@
 
 A JavaScript module for creating custom animated HTML cursors with optional swing physics based on mouse movement.
 
+<p align="center">
+ <img src="https://raw.githubusercontent.com/TeomanDeniz/TeomanDeniz/refs/heads/main/images/repo_projects/DYNAMIC_SWING_HTML/maximum-tension.gif" alt="" />
+</p>
+
 ## Features
 
 * Fully customizable image-based cursors.
